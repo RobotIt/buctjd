@@ -8,8 +8,10 @@
     * [毕业设计](./Markdown/Certification/graduation_design.md)
     * [课程设计](./Markdown/Certification/curriculum_design.md)
     * [实习实训](./Markdown/Certification/internship_training.md)
+    * [留存资料](./Markdown/Certification/examples.md)
 * 系务工作-机械
     * [会议记录](./Markdown/Department/metting_minutes.md)
+    * [座谈会](./Markdown/Department/forum.md)
 * [学院新闻](./Markdown/News/news.md)
 * [问卷调查](./Markdown/Questionnaire/questionnaire.md)
 
